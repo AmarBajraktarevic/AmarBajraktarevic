@@ -1,6 +1,6 @@
 <h1 align="center">Amar Bajraktarevic</h1>
   <p align="center">
-  <p1>tech stack</p>
+  <p1 style="text-decoration: bold;">tech stack</p>
 <p align="center">
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
