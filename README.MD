@@ -19,9 +19,6 @@
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=AmarBajraktarevic alt=/> </p>
 
-https://img.shields.io/github/stars/AmarBajraktarevic/ezbio-clone
-
-https://img.shields.io/github/stars/AmarBajraktarevic/shdwv2
 
 
 shdw v1 | <a href="https://github.com/AmarBajraktarevic/ezbio-clone><img src="https://img.shields.io/github/stars/AmarBajraktarevic/ezbio-clone" alt="Stars Badge"/></a>
