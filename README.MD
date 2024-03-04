@@ -18,3 +18,7 @@
 </p>
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=AmarBajraktarevic alt=/> </p>
+
+shdw v1 | https://img.shields.io/github/stars/AmarBajraktarevic/ezbio-clone
+
+shdw v2 | https://img.shields.io/github/stars/AmarBajraktarevic/shdwv2
