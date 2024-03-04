@@ -21,5 +21,5 @@
 
 
 
-shdw v1 | <a href="https://github.com/AmarBajraktarevic/ezbio-clone"><img src="https://img.shields.io/github/stars/AmarBajraktarevic/ezbio-clone" alt="Stars Badge"/></a>
-shdw v2 | <a href="https://github.com/AmarBajraktarevic/shdwsitev2"><img src="https://img.shields.io/github/stars/AmarBajraktarevic/shdwsitev2" alt="Stars Badge"/></a>
+<p align="center">  <a href="https://github.com/AmarBajraktarevic/ezbio-clone"><img src="https://img.shields.io/github/stars/AmarBajraktarevic/ezbio-clone" alt="Stars Badge"/></a>
+<p align="center"> <a href="https://github.com/AmarBajraktarevic/shdwsitev2"><img src="https://img.shields.io/github/stars/AmarBajraktarevic/shdwsitev2" alt="Stars Badge"/></a>
